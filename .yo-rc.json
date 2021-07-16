@@ -40,7 +40,9 @@
     "pages": [],
     "creationTimestamp": 1626438650948,
     "jwtSecretKey": "YzZmNDZjNDgwZWUzZGRhOTExYzVkYzI0MmRhY2FmNGY3OTRlMzIzY2EzZGViZGE0M2VkNDM4OTZhYjQ5MDU4YjkwNTNiNjdiY2ZkYzg4YTVmNTM1ZWQ5MjcwNDkwNDQ1MzQ3OTc0NzU0NzNjZmNkYTIwYTkzYTEzZmFjM2RhYjc=",
-    "reactive": false
+    "reactive": false,
+    "entities": ["NoticeInvitingTender", "TenderSchedule"],
+    "lastLiquibaseTimestamp": 1626440588000
   },
   "git-provider": "GitHub",
   "git-company": "Chethan-29",
